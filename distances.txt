@@ -1,0 +1,49 @@
+bizerte#beja#81
+bizerte#manouba#58
+bizerte#ariana#53 
+ariana#tunis#9
+ariana#manouba#16
+manouba#tunis#13
+manouba#ben arous#17
+manouba#beja#90
+ben arous#tunis#10
+ben arous#zaghouan#42
+jandouba#siliana#104
+jandouba#el kef#46
+jandouba#beja#53
+beja#siliana#61
+beja#zaghouan#115
+nabeul#zaghouan#65
+nabeul#sousse#56
+nabeul#ben arous#63
+el kef#kasserine#99
+el kef#siliana#64
+siliana#kasserine#67
+siliana#kairouan#97
+siliana#zaghouan#81
+sousse#kairouan#74
+sousse#monastir#21
+sousse#zaghouan#129
+sousse#mahdia#57
+monastir#mahdia#46
+kairouan#mahdia#142 
+kairouan#zaghouan#126
+kairouan#sidi bouzid#96
+kairouan#sfax#169
+medenine#tataouine#121
+kasserine#sidi bouzid#86
+kasserine#gafsa#71
+sidi bouzid#sfax#171
+sidi bouzid#gafsa#87
+sidi bouzid#siliana#167
+sfax#mahdia#118
+sfax#gabes#152
+sfax#gafsa#190
+gafsa#gabes#198
+gafsa#tozeur#119
+gafsa#kebili#181
+gabes#kebili#167
+gabes#medenine#63
+kebili#medenine#38
+kebili#tataouine#70
+kebili#tozeur#120

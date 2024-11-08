@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1681569008 source:c:\users\toshiba\documents\may midassi fac\asd2\projet asd2\lstvois.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+
+1681483591 c:\users\toshiba\documents\may midassi fac\asd2\projet asd2\lstprim.h
+	"LSTSDD.h"
+
+1679329587 c:\users\toshiba\documents\may midassi fac\asd2\projet asd2\lstsdd.h
+	"LSTVOIS.h"
+
+1681477104 c:\users\toshiba\documents\may midassi fac\asd2\projet asd2\lstvois.h
+	"ELTPRIM.h"
+
+1681490332 c:\users\toshiba\documents\may midassi fac\asd2\projet asd2\eltprim.h
+	"ELTSDD.h"
+
+1679326701 c:\users\toshiba\documents\may midassi fac\asd2\projet asd2\eltsdd.h
+	"ELTGOUV.h"
+
+1681477106 c:\users\toshiba\documents\may midassi fac\asd2\projet asd2\eltgouv.h
+
+1679923766 source:c:\users\toshiba\documents\may midassi fac\asd2\projet asd2\eltgouv.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.h"
+
+1681567872 source:c:\users\toshiba\documents\may midassi fac\asd2\projet asd2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LSTPRIM.h"
+	"ELTPRIM.h"
+
+1681566620 source:c:\users\toshiba\documents\may midassi fac\asd2\projet asd2\char.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
